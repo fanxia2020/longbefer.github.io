@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LongBefer</title>
+  
+  <subtitle>Github Site</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://longbefer.github.io/"/>
+  <updated>2019-06-01T07:13:12.896Z</updated>
+  <id>http://longbefer.github.io/</id>
+  
+  <author>
+    <name>Longbofeng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>github.io重建计划</title>
+    <link href="http://longbefer.github.io/2018/06/01/hello-world/"/>
+    <id>http://longbefer.github.io/2018/06/01/hello-world/</id>
+    <published>2018-06-01T06:52:09.000Z</published>
+    <updated>2019-06-01T07:13:12.896Z</updated>
+    
+    <content type="html"><![CDATA[<p>  距离上次建站已经是一年前了，我也希望可以重新再写一些东西。</p>  <a id="more"></a><p>  刚才看了下上次GitHub建立时竟然是去年6月17日，明明就要有一周年了，我竟然删掉重建了。。。</p><p>  当然今年重新建立是想要清理一下上次的博客，重新来过（毕竟上次泄露的个人隐私有点多）。经过几次不停折磨的洗礼，我竟然懂得hexo是如何运作的了。。。天啊！我是不是应该看看文档来提升一下我的知识水平。。。</p><p>  github.io重建计划正式开启。</p><p>  当然，请不要过分期待，毕竟我很懒。。。谢谢。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;  距离上次建站已经是一年前了，我也希望可以重新再写一些东西。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://longbefer.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
